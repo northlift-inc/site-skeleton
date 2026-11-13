@@ -1,0 +1,13 @@
+schema_version: 1
+site_id: ""
+template:
+  name: dental-standard
+  version: 1.0.0
+industry_pack:
+  id: medical_dental
+  version: 2
+locale: ja-JP
+features:
+  inquiry:
+    mode: none
+  news_expiry_days: 365

@@ -1,0 +1,12 @@
+schema: dental/organization@1
+name: 〇〇歯科クリニック
+address:
+  postal_code: "100-0001"
+  prefecture: 東京都
+  city: 千代田区
+  line1: 千代田1-1-1
+phone: "03-0000-0000"
+access_md: 〇〇駅から徒歩5分
+insurance_accepted: true
+departments:
+  - 歯科

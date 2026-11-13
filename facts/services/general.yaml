@@ -1,0 +1,6 @@
+schema: dental/service@1
+id: general
+name: 一般歯科
+category: general
+summary_md: むし歯や歯周病の治療など、保険診療で行う一般的な歯科治療です。
+insurance: covered
